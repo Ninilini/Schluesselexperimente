@@ -3,3 +3,4 @@
 */build/
 *.hdf5
 *.csv
+*/Wu_Experiment/build/
