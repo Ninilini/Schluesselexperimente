@@ -1,0 +1,14 @@
+@article{PhysRev.105.1681.2,
+  title = {Nuclear Emulsion Evidence for Parity Nonconservation in the Decay Chain ${\ensuremath{\pi}}^{+}\ensuremath{-}{\ensuremath{\mu}}^{+}\ensuremath{-}{e}^{+}$},
+  author = {Friedman, Jerome I. and Telegdi, V. L.},
+  journal = {Phys. Rev.},
+  volume = {105},
+  issue = {5},
+  pages = {1681--1682},
+  numpages = {0},
+  year = {1957},
+  month = {Mar},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRev.105.1681.2},
+  url = {https://link.aps.org/doi/10.1103/PhysRev.105.1681.2}
+}

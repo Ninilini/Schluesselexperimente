@@ -1,0 +1,681 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{doi:10.1080/14786440208520296}{article}{}
+      \name{author}{7}{}{%
+        {{hash=31d8ad6e2fb94e8882ecffece867c135}{%
+           family={Ambler},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=00d0ed18ea03203bb30faae75221d9f4}{%
+           family={Grace},
+           familyi={G\bibinitperiod},
+           given={M.A.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8b359f0f9116fa4bd6c91bf58c48e1ca}{%
+           family={Halban},
+           familyi={H\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9c55b3469ec6904c8aeebea007b8e972}{%
+           family={Kurti},
+           familyi={K\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=588c9f9a3c4c0b45ec67e78ec7c36771}{%
+           family={Durand},
+           familyi={D\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a26a310452eee4c2fe254c085747a9f5}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={C.E.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5ed04ef20b2c11c0fe2fb0e783ca0f2e}{%
+           family={Lemmer},
+           familyi={L\bibinitperiod},
+           given={H.R.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{5a94f8dba565609d033ed923b8be82de}
+      \strng{fullhash}{e2c9efaf653966c73a38f72e2237a716}
+      \strng{bibnamehash}{5a94f8dba565609d033ed923b8be82de}
+      \strng{authorbibnamehash}{5a94f8dba565609d033ed923b8be82de}
+      \strng{authornamehash}{5a94f8dba565609d033ed923b8be82de}
+      \strng{authorfullhash}{e2c9efaf653966c73a38f72e2237a716}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science}
+      \field{number}{349}
+      \field{title}{Nuclear polarization of cobalt 60}
+      \field{volume}{44}
+      \field{year}{1953}
+      \field{pages}{216\bibrangedash 218}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1080/14786440208520296
+      \endverb
+    \endentry
+    \entry{Chase}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9ad55e03fc82fffdddffeb7cbb7060b8}{%
+           family={Chase},
+           familyi={C\bibinitperiod},
+           given={C.T.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{9ad55e03fc82fffdddffeb7cbb7060b8}
+      \strng{fullhash}{9ad55e03fc82fffdddffeb7cbb7060b8}
+      \strng{bibnamehash}{9ad55e03fc82fffdddffeb7cbb7060b8}
+      \strng{authorbibnamehash}{9ad55e03fc82fffdddffeb7cbb7060b8}
+      \strng{authornamehash}{9ad55e03fc82fffdddffeb7cbb7060b8}
+      \strng{authorfullhash}{9ad55e03fc82fffdddffeb7cbb7060b8}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{title}{The scattering of fast electrons by metals. II. Polarization by double scattering at right angles}
+      \field{volume}{36}
+      \field{year}{1930}
+      \field{pages}{1060\bibrangedash 1065}
+      \range{pages}{6}
+    \endentry
+    \entry{Cox544}{article}{}
+      \name{author}{3}{}{%
+        {{hash=74f24ca1671cca8024ad894ea6512a44}{%
+           family={Cox},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=28e6e03f4da4461e70300193134e1772}{%
+           family={McIlwraith},
+           familyi={M\bibinitperiod},
+           given={C.\bibnamedelimi G.},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=8e826cb3a3c64d02c3eeffccc0afb927}{%
+           family={Kurrelmeyer},
+           familyi={K\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {National Academy of Sciences}%
+      }
+      \strng{namehash}{26afae973f48c0c578f8a269851d9587}
+      \strng{fullhash}{26afae973f48c0c578f8a269851d9587}
+      \strng{bibnamehash}{26afae973f48c0c578f8a269851d9587}
+      \strng{authorbibnamehash}{26afae973f48c0c578f8a269851d9587}
+      \strng{authornamehash}{26afae973f48c0c578f8a269851d9587}
+      \strng{authorfullhash}{26afae973f48c0c578f8a269851d9587}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0027-8424}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{7}
+      \field{title}{Apparent Evidence of Polarization in a Beam of β-Rays}
+      \field{volume}{14}
+      \field{year}{1928}
+      \field{pages}{544\bibrangedash 549}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.14.7.544
+      \endverb
+    \endentry
+    \entry{doi:10.1080/14786441008520365}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5b06ac6965918d9ed43513b919241d3c}{%
+           family={Dalitz},
+           familyi={D\bibinitperiod},
+           given={R.H.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{5b06ac6965918d9ed43513b919241d3c}
+      \strng{fullhash}{5b06ac6965918d9ed43513b919241d3c}
+      \strng{bibnamehash}{5b06ac6965918d9ed43513b919241d3c}
+      \strng{authorbibnamehash}{5b06ac6965918d9ed43513b919241d3c}
+      \strng{authornamehash}{5b06ac6965918d9ed43513b919241d3c}
+      \strng{authorfullhash}{5b06ac6965918d9ed43513b919241d3c}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science}
+      \field{number}{357}
+      \field{title}{CXII. On the analysis of τ-meson data and the nature of the τ-meson}
+      \field{volume}{44}
+      \field{year}{1953}
+      \field{pages}{1068\bibrangedash 1080}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1080/14786441008520365
+      \endverb
+    \endentry
+    \entry{feynman}{book}{}
+      \name{author}{1}{}{%
+        {{hash=aac54ccf9c76aa4ba4310ed1334be7d8}{%
+           family={Feynman},
+           familyi={F\bibinitperiod},
+           given={Richard\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Adison-Wesley}%
+      }
+      \strng{namehash}{aac54ccf9c76aa4ba4310ed1334be7d8}
+      \strng{fullhash}{aac54ccf9c76aa4ba4310ed1334be7d8}
+      \strng{bibnamehash}{aac54ccf9c76aa4ba4310ed1334be7d8}
+      \strng{authorbibnamehash}{aac54ccf9c76aa4ba4310ed1334be7d8}
+      \strng{authornamehash}{aac54ccf9c76aa4ba4310ed1334be7d8}
+      \strng{authorfullhash}{aac54ccf9c76aa4ba4310ed1334be7d8}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Feynman Lectures on Physics, Vol.III}
+      \field{year}{1965}
+      \field{pages}{17\bibrangedash 22}
+      \range{pages}{6}
+    \endentry
+    \entry{PhysRev.105.1681.2}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6beff789332dd380b4a6c050311b56ed}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={J.\bibnamedelimi I.},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=790f3c68fb09b4a2b5a6081456a48204}{%
+           family={Telegdi},
+           familyi={T\bibinitperiod},
+           given={V.\bibnamedelimi L.},
+           giveni={V\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{51e220ac17e960cf43eb87aac2ef2c14}
+      \strng{fullhash}{51e220ac17e960cf43eb87aac2ef2c14}
+      \strng{bibnamehash}{51e220ac17e960cf43eb87aac2ef2c14}
+      \strng{authorbibnamehash}{51e220ac17e960cf43eb87aac2ef2c14}
+      \strng{authornamehash}{51e220ac17e960cf43eb87aac2ef2c14}
+      \strng{authorfullhash}{51e220ac17e960cf43eb87aac2ef2c14}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{5}
+      \field{journaltitle}{Phys. Rev.}
+      \field{month}{3}
+      \field{title}{Nuclear Emulsion Evidence for Parity Nonconservation in the Decay Chain ${\ensuremath{\pi}}^{+}\ensuremath{-}{\ensuremath{\mu}}^{+}\ensuremath{-}{e}^{+}$}
+      \field{volume}{105}
+      \field{year}{1957}
+      \field{pages}{1681\bibrangedash 1682}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1103/PhysRev.105.1681.2
+      \endverb
+    \endentry
+    \entry{PhysRev.105.1415}{article}{}
+      \name{author}{3}{}{%
+        {{hash=92e6e0fb9a367163c8238691cd17c967}{%
+           family={Garwin},
+           familyi={G\bibinitperiod},
+           given={Richard\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=9a333a88229499f4a5871cb37965f573}{%
+           family={Lederman},
+           familyi={L\bibinitperiod},
+           given={Leon\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e030dab5d145c82f0cc1e2a2971a0999}{%
+           family={Weinrich},
+           familyi={W\bibinitperiod},
+           given={Marcel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{b265144b8f20de40aeaf937122943d36}
+      \strng{fullhash}{b265144b8f20de40aeaf937122943d36}
+      \strng{bibnamehash}{b265144b8f20de40aeaf937122943d36}
+      \strng{authorbibnamehash}{b265144b8f20de40aeaf937122943d36}
+      \strng{authornamehash}{b265144b8f20de40aeaf937122943d36}
+      \strng{authorfullhash}{b265144b8f20de40aeaf937122943d36}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{4}
+      \field{journaltitle}{Phys. Rev.}
+      \field{month}{02}
+      \field{title}{Observations of the Failure of Conservation of Parity and Charge Conjugation in Meson Decays: the Magnetic Moment of the Free Muon}
+      \field{volume}{105}
+      \field{year}{1957}
+      \field{pages}{1415\bibrangedash 1417}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1103/PhysRev.105.1415
+      \endverb
+    \endentry
+    \entry{GORTER1948504}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6f29cafac4cfc137138154a9a804ccc2}{%
+           family={Gorter},
+           familyi={G\bibinitperiod},
+           given={C.J},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f29cafac4cfc137138154a9a804ccc2}
+      \strng{fullhash}{6f29cafac4cfc137138154a9a804ccc2}
+      \strng{bibnamehash}{6f29cafac4cfc137138154a9a804ccc2}
+      \strng{authorbibnamehash}{6f29cafac4cfc137138154a9a804ccc2}
+      \strng{authornamehash}{6f29cafac4cfc137138154a9a804ccc2}
+      \strng{authorfullhash}{6f29cafac4cfc137138154a9a804ccc2}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0031-8914}
+      \field{journaltitle}{Physica}
+      \field{number}{8}
+      \field{title}{A new suggestion for aligning certain atomic nucleï}
+      \field{volume}{14}
+      \field{year}{1948}
+      \field{pages}{504}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0031-8914(48)90004-4
+      \endverb
+    \endentry
+    \entry{griffiths}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f155d780982df4094a3495f4b0c58354}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-VCH}%
+      }
+      \strng{namehash}{f155d780982df4094a3495f4b0c58354}
+      \strng{fullhash}{f155d780982df4094a3495f4b0c58354}
+      \strng{bibnamehash}{f155d780982df4094a3495f4b0c58354}
+      \strng{authorbibnamehash}{f155d780982df4094a3495f4b0c58354}
+      \strng{authornamehash}{f155d780982df4094a3495f4b0c58354}
+      \strng{authorfullhash}{f155d780982df4094a3495f4b0c58354}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to Elementary Particles}
+      \field{year}{2008}
+      \true{nocite}
+      \field{pages}{136\bibrangedash 145}
+      \range{pages}{10}
+    \endentry
+    \entry{muon}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1dba4b761c9b0df8e5ea6eb12df1b8dd}{%
+           family={Hacker},
+           familyi={H\bibinitperiod},
+           given={German},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{1dba4b761c9b0df8e5ea6eb12df1b8dd}
+      \strng{fullhash}{1dba4b761c9b0df8e5ea6eb12df1b8dd}
+      \strng{bibnamehash}{1dba4b761c9b0df8e5ea6eb12df1b8dd}
+      \strng{authorbibnamehash}{1dba4b761c9b0df8e5ea6eb12df1b8dd}
+      \strng{authornamehash}{1dba4b761c9b0df8e5ea6eb12df1b8dd}
+      \strng{authorfullhash}{1dba4b761c9b0df8e5ea6eb12df1b8dd}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Die schwache Wechselwirkung - Die Paritätsverletzung}
+      \field{urlday}{23}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.solstice.de/grundl_d_tph/sm_ww/sm_ww_sch8a.html
+      \endverb
+      \verb{url}
+      \verb https://www.solstice.de/grundl_d_tph/sm_ww/sm_ww_sch8a.html
+      \endverb
+    \endentry
+    \entry{Hadjiivanov:2018lgp}{article}{}
+      \name{author}{1}{}{%
+        {{hash=11c205a70558094fa7038c110f544278}{%
+           family={Hadjiivanov},
+           familyi={H\bibinitperiod},
+           given={Ludmil},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{11c205a70558094fa7038c110f544278}
+      \strng{fullhash}{11c205a70558094fa7038c110f544278}
+      \strng{bibnamehash}{11c205a70558094fa7038c110f544278}
+      \strng{authorbibnamehash}{11c205a70558094fa7038c110f544278}
+      \strng{authornamehash}{11c205a70558094fa7038c110f544278}
+      \strng{authorfullhash}{11c205a70558094fa7038c110f544278}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{physics.hist-ph}
+      \field{eprinttype}{arXiv}
+      \field{title}{{Neutrino, parity violaton, V-A: a historical survey}}
+      \field{year}{2018}
+      \true{nocite}
+      \verb{eprint}
+      \verb 1812.11629
+      \endverb
+    \endentry
+    \entry{nobelprize}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f0c937d38eaaf7e14b4fa0cb93d40f58}{%
+           family={Hargittai},
+           familyi={H\bibinitperiod},
+           given={Magdolna},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0c937d38eaaf7e14b4fa0cb93d40f58}
+      \strng{fullhash}{f0c937d38eaaf7e14b4fa0cb93d40f58}
+      \strng{bibnamehash}{f0c937d38eaaf7e14b4fa0cb93d40f58}
+      \strng{authorbibnamehash}{f0c937d38eaaf7e14b4fa0cb93d40f58}
+      \strng{authornamehash}{f0c937d38eaaf7e14b4fa0cb93d40f58}
+      \strng{authorfullhash}{f0c937d38eaaf7e14b4fa0cb93d40f58}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Credit where credit’s due?}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://physicsworld.com/a/credit-where-credits-due/
+      \endverb
+      \verb{url}
+      \verb https://physicsworld.com/a/credit-where-credits-due/
+      \endverb
+    \endentry
+    \entry{kittel}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2c6d8b1aea5118299879670708080fe1}{%
+           family={Kittel},
+           familyi={K\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oldenburg}%
+      }
+      \strng{namehash}{2c6d8b1aea5118299879670708080fe1}
+      \strng{fullhash}{2c6d8b1aea5118299879670708080fe1}
+      \strng{bibnamehash}{2c6d8b1aea5118299879670708080fe1}
+      \strng{authorbibnamehash}{2c6d8b1aea5118299879670708080fe1}
+      \strng{authornamehash}{2c6d8b1aea5118299879670708080fe1}
+      \strng{authorfullhash}{2c6d8b1aea5118299879670708080fe1}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Einführung in die Festkörperphysik}
+      \field{year}{2002}
+    \endentry
+    \entry{PhysRev.106.340}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bf88f0f2f3ace26d4fc1e8306ead44af}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={T.\bibnamedelimi D.},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=2bfce82bed80c4c03e51cb4bff9d4915}{%
+           family={Oehme},
+           familyi={O\bibinitperiod},
+           given={Reinhard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e70bb8eafeb170e9ab03b692c211b42e}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={C.\bibnamedelimi N.},
+           giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{1994a44c50ada3dbffbf3df46ac12e60}
+      \strng{fullhash}{1994a44c50ada3dbffbf3df46ac12e60}
+      \strng{bibnamehash}{1994a44c50ada3dbffbf3df46ac12e60}
+      \strng{authorbibnamehash}{1994a44c50ada3dbffbf3df46ac12e60}
+      \strng{authornamehash}{1994a44c50ada3dbffbf3df46ac12e60}
+      \strng{authorfullhash}{1994a44c50ada3dbffbf3df46ac12e60}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{2}
+      \field{journaltitle}{Phys. Rev.}
+      \field{month}{04}
+      \field{title}{Remarks on Possible Noninvariance under Time Reversal and Charge Conjugation}
+      \field{volume}{106}
+      \field{year}{1957}
+      \field{pages}{340\bibrangedash 345}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1103/PhysRev.106.340
+      \endverb
+    \endentry
+    \entry{PhysRev.104.254}{article}{}
+      \name{author}{2}{}{%
+        {{hash=bf88f0f2f3ace26d4fc1e8306ead44af}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={T.\bibnamedelimi D.},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e70bb8eafeb170e9ab03b692c211b42e}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={C.\bibnamedelimi N.},
+           giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{2178265ae7c86c5b5b46a350b04b4e73}
+      \strng{fullhash}{2178265ae7c86c5b5b46a350b04b4e73}
+      \strng{bibnamehash}{2178265ae7c86c5b5b46a350b04b4e73}
+      \strng{authorbibnamehash}{2178265ae7c86c5b5b46a350b04b4e73}
+      \strng{authornamehash}{2178265ae7c86c5b5b46a350b04b4e73}
+      \strng{authorfullhash}{2178265ae7c86c5b5b46a350b04b4e73}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Phys. Rev.}
+      \field{month}{10}
+      \field{title}{Question of Parity Conservation in Weak Interactions}
+      \field{volume}{104}
+      \field{year}{1956}
+      \field{pages}{254\bibrangedash 258}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1103/PhysRev.104.254
+      \endverb
+    \endentry
+    \entry{PhysRev.75.213}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e852b164cd18a5ca7c7b3697dba8ff22}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{e852b164cd18a5ca7c7b3697dba8ff22}
+      \strng{fullhash}{e852b164cd18a5ca7c7b3697dba8ff22}
+      \strng{bibnamehash}{e852b164cd18a5ca7c7b3697dba8ff22}
+      \strng{authorbibnamehash}{e852b164cd18a5ca7c7b3697dba8ff22}
+      \strng{authornamehash}{e852b164cd18a5ca7c7b3697dba8ff22}
+      \strng{authorfullhash}{e852b164cd18a5ca7c7b3697dba8ff22}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Phys. Rev.}
+      \field{month}{01}
+      \field{title}{On the Production of Nuclear Polarization}
+      \field{volume}{75}
+      \field{year}{1949}
+      \field{pages}{213\bibrangedash 213}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRev.75.213
+      \endverb
+    \endentry
+    \entry{wegener}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4b2aceab7b5c5b191df53a8e517beecf}{%
+           family={Wegener},
+           familyi={W\bibinitperiod},
+           given={Dietrich\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b2aceab7b5c5b191df53a8e517beecf}
+      \strng{fullhash}{4b2aceab7b5c5b191df53a8e517beecf}
+      \strng{bibnamehash}{4b2aceab7b5c5b191df53a8e517beecf}
+      \strng{authorbibnamehash}{4b2aceab7b5c5b191df53a8e517beecf}
+      \strng{authornamehash}{4b2aceab7b5c5b191df53a8e517beecf}
+      \strng{authorfullhash}{4b2aceab7b5c5b191df53a8e517beecf}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vorlesung Einführung in die Kern- und Elementarteilchenphysik}
+      \field{year}{2002}
+      \true{nocite}
+    \endentry
+    \entry{WuExperiment}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Wu experiment}
+      \field{urlday}{21}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Wu_experiment
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Wu_experiment
+      \endverb
+    \endentry
+    \entry{PhysRev.105.1413}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f325ca639a56ac67f49a7244e1c6aa15}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={C.\bibnamedelimi S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=31d8ad6e2fb94e8882ecffece867c135}{%
+           family={Ambler},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7c7d95cb5b18d00c526fc14199bb7544}{%
+           family={Hayward},
+           familyi={H\bibinitperiod},
+           given={R.\bibnamedelimi W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=4c72437b0e4177467734e00b902fae1e}{%
+           family={Hoppes},
+           familyi={H\bibinitperiod},
+           given={D.\bibnamedelimi D.},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=75a7be01927ff86ebfc225d8c7b36a17}{%
+           family={Hudson},
+           familyi={H\bibinitperiod},
+           given={R.\bibnamedelimi P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{96c6c8c72bd04f11aed11a6b1246f2a8}
+      \strng{fullhash}{87a86e4b50e5f210c19d664eaf50f8eb}
+      \strng{bibnamehash}{96c6c8c72bd04f11aed11a6b1246f2a8}
+      \strng{authorbibnamehash}{96c6c8c72bd04f11aed11a6b1246f2a8}
+      \strng{authornamehash}{96c6c8c72bd04f11aed11a6b1246f2a8}
+      \strng{authorfullhash}{87a86e4b50e5f210c19d664eaf50f8eb}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{4}
+      \field{journaltitle}{Phys. Rev.}
+      \field{month}{02}
+      \field{title}{Experimental Test of Parity Conservation in Beta Decay}
+      \field{volume}{105}
+      \field{year}{1957}
+      \field{pages}{1413\bibrangedash 1415}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1103/PhysRev.105.1413
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

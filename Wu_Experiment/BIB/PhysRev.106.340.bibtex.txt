@@ -1,0 +1,14 @@
+@article{PhysRev.106.340,
+  title = {Remarks on Possible Noninvariance under Time Reversal and Charge Conjugation},
+  author = {Lee, T. D. and Oehme, Reinhard and Yang, C. N.},
+  journal = {Phys. Rev.},
+  volume = {106},
+  issue = {2},
+  pages = {340--345},
+  numpages = {0},
+  year = {1957},
+  month = {Apr},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRev.106.340},
+  url = {https://link.aps.org/doi/10.1103/PhysRev.106.340}
+}

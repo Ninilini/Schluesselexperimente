@@ -1,0 +1,14 @@
+@article{PhysRev.105.1415,
+  title = {Observations of the Failure of Conservation of Parity and Charge Conjugation in Meson Decays: the Magnetic Moment of the Free Muon},
+  author = {Garwin, Richard L. and Lederman, Leon M. and Weinrich, Marcel},
+  journal = {Phys. Rev.},
+  volume = {105},
+  issue = {4},
+  pages = {1415--1417},
+  numpages = {0},
+  year = {1957},
+  month = {Feb},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRev.105.1415},
+  url = {https://link.aps.org/doi/10.1103/PhysRev.105.1415}
+}

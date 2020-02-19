@@ -1,0 +1,14 @@
+@article{PhysRev.75.213,
+  title = {On the Production of Nuclear Polarization},
+  author = {Rose, M. E.},
+  journal = {Phys. Rev.},
+  volume = {75},
+  issue = {1},
+  pages = {213--213},
+  numpages = {0},
+  year = {1949},
+  month = {Jan},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRev.75.213},
+  url = {https://link.aps.org/doi/10.1103/PhysRev.75.213}
+}

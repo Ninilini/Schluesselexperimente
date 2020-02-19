@@ -1,0 +1,44 @@
+\section{The Goldhaber Experiment \cite{gold}}
+The Goldhaber experiment was the first one revealing that the neutrino is left-handed. It was an important step to confirm the chiral nature of the weak interaction.
+\subsection{Theoretical principles}
+The neutrinos are uncharged, colourless leptons, that exclusively interact weakly. Back in 1957 it was believed that neutrinos are massless. For massless particles the helicity is a lorentz invaraint quantity. As a consequence the helicity is identically to the chirality for the neutrino.
+So the neutrino is either left-handed or a right-handed particle. Left-handed is a particle where the direction of the spin is antiparallel to the direction of the momentum, for right-handed particles they are parallel. The Wu experiment delivered the first hint that the neutrino might be left-handed.\\
+The main idea was to determine the neutrino helicity by using the conservation of angular distribution. When $^{152m}Eu$ captures an electron it decays into an neutrino and an excited $^{152}Sm^*$, which migrates into its ground state by sending out a photon with the energy of $E_{\gamma}=\SI{960}{\kilo\electronvolt}$. Since the $^{152m}Eu$ is spin zero, the spin of the electron and the neutrino point in opposite directions. This is just possible for spin conservation if the excited Samarium state has the same spin direction as the electron. The recoil of the decay leads to roughly opposite momentum directions of the excited Samarium state and the neutrino. So the helicity of the neutrino and the excited Samarium is identical. Since the $^{152}Sm$ ground state is zero the helicity of the photon needs to be identically to the electron $H( \gamma )= H(e^{-})$.
+\begin{equation*}
+    \ce{
+      ^{152m}Eu + $\overset{\Leftarrow}{\ce{e-}}$ -> $\overset{\Rightarrow}{\underset{\longleftarrow}{\ce{\symup{\nu}}_{\text{e}}}}$ + $\overset{\Longleftarrow}{\underset{\longrightarrow}{\ce{^{152}Sm^*}}}$ -> $\overset{\Rightarrow}{\underset{\longleftarrow}{\ce{\symup{\nu}}_{\text{e}}}}$ + $\overset{\Longleftarrow}{\underset{\longrightarrow}{\symup{\gamma}}}$ + ^{152}Sm
+    }
+    \label{eqn:europium_decay}
+\end{equation*}
+\subsection{Experimental setup}
+The $^{152m}Eu$ was produced at a reactor at the Brookhaven National Labortory by bombarding europium oxide with neutrons. The time for the experiment was limited by the halflife time of the  $^{152m}Eu$ with $T_{1/2}=\SI{9.3}{\hour}$. The two main tasks to determine the neutrino helicity was determine the neutrino flight direction and measure the photon polarization.\\
+The neutrino flight direction can just be measured indirectly with the method of resonant scattering fluorescence. The neutrino and the excited Samarium are emitted back to back but in random direction. Since the photon is emitted with a fixed energy it is able to again excite another Samarium nucleus in a target. By doing to the the flight direction of the corresponding neutrino is fixed. The problem is that energy loss $E_{\text{loss}} \approx \SI{6}{\electronvolt}$ due to the recoil momentum at the emission and absorption of the electron is two orders of magnitude larger than the line width of the $^{152}Sm$ target.
+\begin{align*}
+	E_{\text{recoil}} = \frac{E_{\gamma}^2}{2M_{^{152}Sm}c^2} \approx \SI{3}{\electronvolt}
+\end{align*}
+The resonant scattering is only possible if the Doppler shift has a size of $\approx \SI{6}{\electronvolt}$. At room temperature $T\approx \SI{300}{\kelvin}$ the mean velocity of the atoms lead to a Doppler shift of around \SI{0.5}{\electronvolt}, if the the Samarium ground state and the photon move back to back. So the thermal Doppler shift is not enough, but together with the Doppler shift from the neutrino recoil, considering a neutrino energy of $E_{\nu} \approx \SI{940}{\electronvolt}$, is is.
+\begin{align*}
+	\Delta E_{\text{thermal}} &= E^2 \sqrt{\frac{2 k_B T}{M_{^{152}Sm} c^2}}\cos \vartheta \approx \cos \vartheta \SI{0.5}{\electronvolt} \\
+	 \Delta E_{\text{neutr}} &= \frac{E E_{\nu}}{M_{^{152}Sm} c^2}\cos \vartheta \approx \cos \vartheta \SI{5.4}{\electronvolt}
+\end{align*}
+The measurement of the photon polarization was based on the fact that $H(e^{-})= H(^{152}Sm^*) = H(\gamma)$. A iron housing is placed around the $^{152m}Eu$ and then magnetized, which forces most of the electrons in the iron to align antiparallel to the magnetic field. Since the compton cross section is greater for the left-handed photons, they are more likely to pass trough the iron.\\
+The reminding right-handed photons can be neglect, since they need to flip the electron spin to pass trough the iron. This leads to an energy loss that is too great for the photon to still be able to excite the $^{152}Sm$ target.
+
+\begin{wrapfigure}{l}{0.35\textwidth}
+    \includegraphics[width=0.33\textwidth]{graphics/gold.png}
+    \caption{Schematic representation of the Goldhaber experiment.\cite{gold}}
+		\label{fig:gold}
+  \end{wrapfigure}
+  \FloatBarrier
+
+Combining both principles lead to the possibility to determine the neutrino helicity. As figure \ref{fig:gold} shows the $^{152m}Eu$ source is embedded in the magnet and on top of a lead shield. Below the shielding the NaI scinitillator is placed in the middle of a Samarium ring, which is used to detect the resonant scattering photons. The shielding should protect the scinitillator against radiation from the Europium itself. It is also placed inside of an iron box to protected it from the magnetic field.
+\subsection{Results}
+The photon scattering spectrum gets measured every $3$ minutes and afterwards the magnetization gets flipped. Nine measurements have been beformed in total and lead to an estimated, average photon polarization of $0.67 \pm 0.10$. This was in good agreement with the theoretical prediction of $0.84$. The counting rates in the photopeaks have been compared for the magnetic field pointing up $N_+$ and down $N_-$. It lead to an effect of
+\begin{align*}
+	\delta = 2 \cdot \frac{N_- - N_+}{N_- + N_+} = 0.017 \pm 0.003\;.
+\end{align*}
+This proves that more gamma rays have been observed with the magnetic field pointing downwards. Which means that only left-handed photons transmit and gives the final result:
+\begin{align*}
+	H(\nu) = -1.0 \pm 0.2 \; .
+\end{align*}
+This was considered as the evidence that the neutrino in a $\beta$ decay is \SI{100}{\percent} left-handed. Till today only left-handed currents for particles and right-handed currents for antiparticles have been observed. This result did not changed with the discovery of the neutrino masses, since they are so small. But it could not be ruled out completely if there is not an admixture of righthandedness. Till today it is unkown if the neutrino is a dirac or a majorana particle, which means if it is its own antiparticle. Searches for neutrinoless double $\beta$ decay try to determine the $\nu$ nature.

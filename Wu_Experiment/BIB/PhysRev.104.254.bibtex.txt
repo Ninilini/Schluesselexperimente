@@ -1,0 +1,13 @@
+@article{PhysRev.104.254,
+  title = {Question of Parity Conservation in Weak Interactions},
+  author = {Lee, T. D. and Yang, C. N.},
+  journal = {Phys. Rev.},
+  volume = {104},
+  issue = {1},
+  pages = {254--258},
+  numpages = {0},
+  year = {1956},
+  month = {Oct},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRev.104.254}
+}
